@@ -1,5 +1,5 @@
 {
-    "name": "xsolve-pl/xsolve-cookie-acknowledgement-bundle",
+    "name": "phpeek/xsolve-cookie-acknowledgement-bundle",
     "description": "XSolve Cookie Acknowledgement Bundle to handle new privacy law",
     "license": "MIT",
     "autoload": {
